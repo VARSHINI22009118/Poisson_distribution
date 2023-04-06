@@ -27,6 +27,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Experiment :
 
 
+
+
+
 # Program :
 ```python
 import numpy as np
@@ -68,5 +71,10 @@ else:
 
  
 
-# Results and Output : 
+#  Output : 
+![prob2op](https://user-images.githubusercontent.com/119401150/230279642-f46da6e6-eb05-4577-a8b0-648b911997e3.png)
+# Result :
+Thus the program to fit poisson distribution for the arrival of objects per minute from the feeder has been done.
+
+
  
