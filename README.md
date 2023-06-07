@@ -62,7 +62,6 @@ else:
 #  Output : 
 ![prob2op](https://user-images.githubusercontent.com/119401150/230279642-f46da6e6-eb05-4577-a8b0-648b911997e3.png)
 # Result :
-Thus the program to fit poisson distribution for the arrival of objects per minute from the feeder has been done.
-
+The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
 
  
